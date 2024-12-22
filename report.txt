@@ -1,0 +1,6 @@
+Bus Station Report
+----------------------
+Station Name         Number of Trips      Total Passengers    
+----------------------
+Station A            2                    110                 
+Station B            2                    110                 
